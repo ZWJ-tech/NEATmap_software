@@ -189,5 +189,4 @@ Cite us if you use the software in any form:
       journal={National Science Review},
       pages={nwae109},
       year={2024},
-      publisher={Oxford University Press}
-}
+      publisher={Oxford University Press}}
